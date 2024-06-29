@@ -1,0 +1,66 @@
+Practice Questions:
+1. Unique Phone Numbers:
+Given a list of phone numbers, each phone number can contain spaces and dashes which should be ignored. Additionally, if there is a country code (indicated by a '+' followed by digits at the beginning), it should be stripped. Return the number of unique phone numbers.
+
+2. Group Anagrams:
+Given an array of strings, group anagrams together. An anagram is a word formed by rearranging the letters of another, such as 'cinema', formed from 'iceman'. The output should be a list of lists of strings, where each list contains anagrams.
+
+3. Valid Parentheses:
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. An input string is valid if open brackets are closed by the same type of brackets, and open brackets are closed in the correct order.
+
+4. Longest Substring Without Repeating Characters:
+Given a string, find the length of the longest substring without repeating characters.
+
+5. Decode String:
+Given an encoded string, return its decoded string. The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being repeated exactly k times. For example, "3[a]2[bc]" returns "aaabcbc".
+
+6. First Unique Character in a String:
+Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1.
+
+7. Palindrome Substrings:
+Given a string, return the number of palindromic substrings in it. A substring is a palindrome if it reads the same backward as forward.
+
+8. String Compression:
+Implement a method to perform basic string compression using the counts of repeated characters. For example, the string "aabcccccaaa" would become "a2b1c5a3". If the compressed string would not become smaller than the original string, your method should return the original string.
+
+9. Reverse Words in a String:
+Given an input string, reverse the string word by word. For example, given "the sky is blue", return "blue is sky the".
+
+10. Longest Common Prefix:
+Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string.
+
+11. Remove Duplicates from Sorted Array:
+Given a sorted array nums, remove the duplicates in-place such that each element appears only once and returns the new length. Do not allocate extra space for another array; you must do this by modifying the input array in-place with O(1) extra memory.
+
+12. Max Consecutive Ones:
+Given a binary array nums, return the maximum number of consecutive 1's in the array.
+
+13. Merge Intervals:
+Given a collection of intervals, merge all overlapping intervals.
+
+14. Matrix Diagonal Sum:
+Given a square matrix mat, return the sum of the matrix diagonals. Only include the sum of all the elements on the primary diagonal and all the elements on the secondary diagonal that are not part of the primary diagonal.
+
+15. Remove Element:
+Given an array nums and a value val, remove all instances of that value in-place and return the new length. Do not allocate extra space for another array; you must do this by modifying the input array in-place with O(1) extra memory.
+
+16. Rotting Oranges:
+You are given an m x n grid where each cell can have one of three values:
+
+0 representing an empty cell,
+1 representing a fresh orange,
+2 representing a rotten orange.
+Every minute, any fresh orange that is adjacent (4-directionally) to a rotten orange becomes rotten.
+Return the minimum number of minutes that must elapse until no cell has a fresh orange. If this is impossible, return -1.
+
+17. array rotations
+
+18. array in sorted and rotated way, finding if it is rotated colock wise or anti clock wise and deciding to find an element from starting or ending point so that the traversal iterations get reduced.
+
+19. Longest common sub sequence
+
+20. Largest square in a matrix using dynamic programming
+
+21. Island in matrix. (Fire maximum)
+
+22. Padding
