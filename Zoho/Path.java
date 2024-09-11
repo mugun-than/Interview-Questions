@@ -1,3 +1,7 @@
+/* Given a string path where path[i] = N, S, E, W, Each representing moving one unit in that direction. You start at the origin (0, 0) on a 2D plane and walk on the path specified by Path.
+
+    Return true if the path crosses itself at any point, that is, if at any time you are on a location you have previously visited. Return false otherwise.
+*/
 package Questions;
 import java.util.*;
 
