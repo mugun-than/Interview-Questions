@@ -1,3 +1,5 @@
+/* To find the smallest angle between hours and minute angle in an analog clock */
+
 package Questions;
 import java.util.*;
 
