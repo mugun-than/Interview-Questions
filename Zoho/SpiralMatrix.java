@@ -1,3 +1,21 @@
+/* Write a program that takes two integers as input, n and m. Generate n x m matrix filled with the elements of the fibonacci sequence in a spiral order, starting from the topleft 
+    corner and moving in clockwise direction.
+
+    Example: 
+    INPUT: 
+    
+    n: 3
+    m: 4
+
+    OUTPUT:
+    
+    0    1    1    2
+
+    34   55   89   3
+    
+    21   13   8    5
+*/
+
 package Questions;
 import java.util.*;
 
